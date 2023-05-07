@@ -7,8 +7,11 @@ In this repository, we present a model agnostic mechanism, coined Actionable Unc
 ![AUQantO_Diagram](https://user-images.githubusercontent.com/20457990/232609227-6281e6d6-fbfa-4f2e-88c9-ced56a0a0863.png)
 
 
-## Updates
+## Updates and Citation
 
 ```
 This work is currently under review. Please stay tuned for the method implementation. 
+
+Please do not use the method description for any futur work until the work is published. Copyrights reserved.
+
 ```
