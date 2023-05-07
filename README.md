@@ -12,6 +12,8 @@ In this repository, we present a model agnostic mechanism, coined Actionable Unc
 ```
 This work is currently under review in an academic journal. Please stay tuned for the method implementation. 
 
-Please do not use the method description for any future work until the work is published. Copyrights reserved©.
+Please do not use the method description for any future work until the work is published.
+
+Copyrights reserved.
 
 ```
