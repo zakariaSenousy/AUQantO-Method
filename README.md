@@ -7,6 +7,9 @@ In this repository, we present a model agnostic mechanism, coined Actionable Unc
 ![AUQantO_Diagram](https://user-images.githubusercontent.com/20457990/232609227-6281e6d6-fbfa-4f2e-88c9-ced56a0a0863.png)
 
 
+## Datasets and Literature Models
+Please check the paper for all the datasets and models utilised in the work: https://doi.org/10.1016/j.asoc.2023.110666
+
 ## Citation
 If you use this code for your research, please cite our paper: [AUQantO: Actionable Uncertainty Quantification Optimization in deep learning architectures for medical image classification](https://doi.org/10.1016/j.asoc.2023.110666)
 
